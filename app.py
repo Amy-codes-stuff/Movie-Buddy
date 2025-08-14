@@ -113,7 +113,7 @@ hero_section = """
     }
 </style>
 <div class="hero-container">
-    <div class="hero-tegxt">
+    <div class="hero-text">  <!-- Corrected -->
         <h1>MOVIE BUDDY</h1>
         <p>Find your next favorite movie with just one click</p>
     </div>
