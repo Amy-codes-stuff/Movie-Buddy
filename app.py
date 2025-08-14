@@ -113,8 +113,8 @@ hero_section = """
     }
 </style>
 <div class="hero-container">
-    <div class="hero-text">
-        <h1>MOVIE RECOMMENDER</h1>
+    <div class="hero-tegxt">
+        <h1>MOVIE BUDDY</h1>
         <p>Find your next favorite movie with just one click</p>
     </div>
 </div>
