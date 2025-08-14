@@ -13,7 +13,7 @@ movies = pd.DataFrame(movies_dict)
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 # --- PAGE CONFIGURATION ---
-st.set_page_config(page_title="Movie Recommender", layout="wide")
+st.set_page_config(page_title="Movie Buddy", layout="wide")
 
 # --- API KEY ---
 # Access your OMDb API key securely from Streamlit secrets
