@@ -51,6 +51,11 @@ streamlit run app.py
 ```
 ## 📸 Preview
 
+Here’s a sneak peek at **Movie Buddy** in action:  
+
+| Home Page | Recommendations |
+|-----------|-----------------|
+| ![Home Page](assets/home.png) | ![Recommendations](assets/recommendations.png) |
 
 
 ## 📂 Project Structure
