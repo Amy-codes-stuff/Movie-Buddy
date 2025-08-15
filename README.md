@@ -55,7 +55,7 @@ Here’s a sneak peek at **Movie Buddy** in action:
 
 | Home Page | Recommendations |
 |-----------|-----------------|
-| ![Home Page](asset/home.png) | ![Recommendations](asset/recommendations.png) |
+| ![Home Page](asset/home.png) | ![Recommendations](asset/recommendation.png) |
 
 
 ## 📂 Project Structure
