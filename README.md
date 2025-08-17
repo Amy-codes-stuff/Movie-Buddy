@@ -5,7 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-## Click Here 👉 [![Streamlit App](https://img.shields.io/badge/Live_Demo-Streamlit-orange?logo=streamlit)](https://netflix-eda-dashboard-project.streamlit.app/)
+## Click Here 👉 [![Streamlit App](https://img.shields.io/badge/Live_Demo-Streamlit-orange?logo=streamlit)](https://movie-buddy-amy.streamlit.app/)
+
 
 > **Your personal movie matchmaker!**  
 > Pick a movie you already love, and Movie Buddy will find other movies with **similar plots, genres, cast, and crew** — like a cinematic soulmate search. 💖🍿  
